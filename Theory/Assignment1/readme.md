@@ -2,4 +2,4 @@
 separately as PNG Files.
 C code is also uploaded separately
 For Question 6, each part is solved in separate C file and its dry run /explanation is in comments b/w code
-For Question 7, file q7a is part a and file q7 is part b***
+For Question 7, file q7a is part a and file q7 is part b(switch cases)***
